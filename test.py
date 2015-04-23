@@ -5,3 +5,4 @@ print "add"
 print "add and commit"
 
 print "add branch dev"
+print "main"
