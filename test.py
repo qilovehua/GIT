@@ -5,4 +5,9 @@ print "add"
 print "add and commit"
 
 print "add branch dev"
-print "main"
+<<<<<<< HEAD
+print "add new branch devtest"
+=======
+
+print "add new branch devtest"
+>>>>>>> devtest
